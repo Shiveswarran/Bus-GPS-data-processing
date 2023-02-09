@@ -1,1 +1,43 @@
-# GPS-data-processing
+# Extracting travel time information from Bus GPS raw data
+
+![project] ![research]
+
+
+
+- <b>Project Lead(s) / Mentor(s)</b>
+    1. Dr. T. Uthayasanker 
+    
+- <b>Contributor(s)</b>
+    1. R. Shiveswarran
+
+
+
+## Summary
+
+two - three paragraphs about your project.
+
+## Description
+
+Detailed description of your project.
+
+- Project phases
+- Diagrams
+- Approches
+
+## More references
+
+1. Reference
+2. Link
+
+---
+
+### License
+
+Apache License 2.0
+
+### Code of Conduct
+
+Please read our [code of conduct document here](https://github.com/aaivu/aaivu-introduction/blob/master/docs/code_of_conduct.md).
+
+[project]: https://img.shields.io/badge/-Project-blue
+[research]: https://img.shields.io/badge/-Research-yellowgreen
