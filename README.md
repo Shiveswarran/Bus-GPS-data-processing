@@ -13,6 +13,7 @@
 
 
 ## Summary
+The raw GPS data set and processed GPS data sets are available upon request (contact: shiveswarran.22@cse.mrt.ac.lk)
 
 ![image](https://user-images.githubusercontent.com/87017018/217787172-d4e7a7da-9639-4d22-9049-09ec3ca572c5.png)
 
