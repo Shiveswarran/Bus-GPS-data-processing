@@ -1,16 +1,5 @@
 # Extracting travel time information from Bus GPS raw data
 
-![project] ![research]
-
-
-
-- <b>Project Lead(s) / Mentor(s)</b>
-    1. Dr. T. Uthayasanker 
-    
-- <b>Contributor(s)</b>
-    1. R. Shiveswarran
-
-
 
 ## Summary
 The raw GPS data set and processed GPS data sets are available upon request (contact: shiveswarran.22@cse.mrt.ac.lk)
@@ -24,10 +13,6 @@ The raw GPS data set and processed GPS data sets are available upon request (con
 ![image](https://user-images.githubusercontent.com/87017018/217787352-16a9974c-087e-4beb-9bce-e45c1cb97a63.png)
 
 
-##Results
-
-![image](https://user-images.githubusercontent.com/87017018/217787483-923cc1e1-aa82-44e7-8734-fbe1df54de2f.png)
-![image](https://user-images.githubusercontent.com/87017018/217787538-aab3a0fa-1ca8-4691-94de-15b489820e76.png)
 
 
 
